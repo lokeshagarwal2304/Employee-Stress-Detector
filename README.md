@@ -2,7 +2,7 @@ The primary objective of the Employee Stress Detection System is to design and i
 
 ![image](https://github.com/user-attachments/assets/8806a9fc-e11e-468c-9381-66723ecfae20)
 
-**Specific objectives include**:
+**Specific objectives include**:-
 
 1.**Real-Time Stress Assessment**: Develop a system that continuously monitors employee stress levels by analyzing data from various sources, such as work hours, productivity metrics, and survey responses.
 
