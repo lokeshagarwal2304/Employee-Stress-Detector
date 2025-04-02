@@ -1,3 +1,4 @@
+###HI
 The primary objective of the Employee Stress Detection System is to design and implement an innovative solution that identifies and manages stress levels among employees in real-time. This project aims to demonstrate how advanced analytics and machine learning can enhance employee well-being and productivity by providing actionable insights based on individual and organizational stress data.
 
 ![image](https://github.com/user-attachments/assets/8806a9fc-e11e-468c-9381-66723ecfae20)
